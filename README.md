@@ -1,7 +1,10 @@
 # Peterside Hospital Heart Disease Prediction ML - Multi-Model Comparison
+<img width="1536" height="1024" alt="Copilot_20260220_215255" src="https://github.com/user-attachments/assets/63f44c43-7977-4c77-96e1-2ca651b086ba" />
 
 ## Project Overview
 A comprehensive machine learning-based system for predicting heart disease using cardiovascular health indicators with advanced model comparison. This project leverages **Supervised Machine Learning** algorithms across seven different models to identify the optimal approach for accurate predictions, supporting healthcare professionals in making informed decisions.
+
+Industry: Medical
 
 ## Executive Summary
 Developed and compared seven machine learning models for heart disease prediction, achieving **86.89% accuracy** with Naive Bayes as the top performer. This comparative analysis evaluated Random Forest, SGD Classifier, K-Nearest Neighbors, SVC, Naive Bayes, Decision Tree, and Logistic Regression using multiple metrics (accuracy, precision, recall, ROC-AUC) to identify the most reliable model for clinical deployment.
