@@ -64,3 +64,11 @@ Deploy the Naive Bayes model in clinical settings with the following strategy:
 - Integrate SHAP values for model explainability to support clinical decision-making
 - Conduct prospective clinical trials and validate against cardiologist diagnoses
 - Deploy as cloud-based API for integration with Electronic Health Record (EHR) systems
+
+
+
+### Let’s Connect:
+If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
+
+- **Email:** poisedconsult@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/babatunde-joel-etu/
