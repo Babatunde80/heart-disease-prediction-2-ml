@@ -1,4 +1,5 @@
 # Peterside Hospital Heart Disease Prediction ML - Multi-Model Comparison
+<img width="1536" height="1024" alt="Copilot_20260220_215255" src="https://github.com/user-attachments/assets/fbf45881-f4c5-497d-ad9b-ad6781dcafac" />
 
 ## Project Overview
 A comprehensive machine learning-based system for predicting heart disease using cardiovascular health indicators with advanced model comparison. This project leverages **Supervised Machine Learning** algorithms across seven different models to identify the optimal approach for accurate predictions, supporting healthcare professionals in making informed decisions.
